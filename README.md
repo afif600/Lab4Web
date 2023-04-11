@@ -101,4 +101,4 @@ switch ($mod) {
 
 ![Error](img/error.PNG)
 
-# Terima Kasih!
+# Terima Kasih!!!
